@@ -74,7 +74,7 @@ ul li a{
     @media only screen and (max-width: 320px) {
         .ph{
             font-size: 11px!important;
-            padding-top: 8px!important;
+            padding-top: 0px!important;
             padding-bottom: 0px!important;
             text-align: center!important;
          }
@@ -88,7 +88,7 @@ ul li a{
          }
          .top{
            
-            height: 60px;
+            height: 60px!important;
             
         }
          }
@@ -194,11 +194,11 @@ margin-top: 20px;
 .course{
  /* padding: 2px 0px;
  font-size: 10px; */
- font-size: 9px;
-padding-left: 2px;
-padding-right: 4px;
-padding-top: 2px;
-padding-bottom: 2px;
+ font-size: 9px!important;
+padding-left: 2px!important;
+padding-right: 4px!important;
+padding-top: 2px!important;
+padding-bottom: 2px!important;
 }
 .center{
     display: block;
